@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/c++/студентам/2 семестр/Семинар 2/project-git",
-      "program": "d:/c++/студентам/2 семестр/Семинар 2/project-git/build/Debug/outDebug",
+      "cwd": "d:/c++/students/2 semestr/Seminar2/project-git/math",
+      "program": "d:/c++/students/2 semestr/Seminar2/project-git/math/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
