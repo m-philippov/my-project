@@ -1,0 +1,3 @@
+D:/c++/students/2 semestr/Seminar2/project-git/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/c++/students/2 semestr/Seminar2/project-git/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/c++/students/2 semestr/Seminar2/project-git/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
